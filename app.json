@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "gabefy",
+    "slug": "gabefy",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "gabefy"
+}
